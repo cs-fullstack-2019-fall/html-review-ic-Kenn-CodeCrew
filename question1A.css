@@ -1,5 +1,4 @@
 h1 {
-    font-size: 48px;
     margin: 0;
 }
 
@@ -13,10 +12,17 @@ h1 {
 .floatThis{
     float: left;
     margin: 1%;
-    width: 30%;
+    /*width: 30%;*/
     height: 300px;
 }
 
+aside{
+    width: 20%;
+}
+
+article{
+    width: 50%;
+}
 footer{
     clear: left;
 }
