@@ -1,0 +1,49 @@
+header, footer, button{
+    background-color: blue;
+    color: white;
+}
+
+header, footer{
+    padding: 5px;
+    padding-left: 15px;
+}
+
+header{
+    height: 15%;
+}
+
+section, aside,p{
+    display:inline-block;
+}
+
+section{
+    width: 80%
+}
+
+aside{
+    width: 15%;
+}
+
+aside{
+    background-color: coral;
+}
+
+p{
+    width: 80%;
+}
+
+img{
+    width: 15%;
+    float: left;
+}
+
+button{
+    display: block;
+    font-size: 24px;
+    margin: 2%;
+    border: none;
+}
+
+/**{*/
+/*    border: 1px solid black;*/
+/*}*/
