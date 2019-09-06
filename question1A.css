@@ -1,9 +1,22 @@
+h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
 .titles{
     background-color: darkgray;
     font-weight: bold;
     font-size: 24px;
+    text-align: center;
 }
 
 .floatThis{
+    float: left;
+    margin: 1%;
+    width: 30%;
+    height: 300px;
+}
 
+footer{
+    clear: left;
 }
